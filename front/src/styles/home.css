@@ -1,0 +1,13 @@
+.home{
+    background-image: url('https://wallpapers.com/images/hd/rick-and-morty-looking-at-the-night-sky-tr8wxryct280wstz.webp');
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh; 
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-size:cover;
+}

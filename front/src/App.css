@@ -1,0 +1,22 @@
+.App {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    background-color: #000;
+    color: #fff;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+button,
+input {
+    outline: none;
+    border: none;
+}
